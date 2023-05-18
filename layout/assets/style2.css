@@ -1,0 +1,40 @@
+@charset "-8UTC";
+
+
+body {
+    background-color: #f76300;
+}
+
+header {
+    margin: 2vh auto;
+}
+header,nav, main {
+    background-color: rgb(78, 78, 78);
+    min-height: 10vh;
+    color: white;
+    padding: 2px 5px;
+}
+nav, main {
+    min-height: 82vh;
+}
+
+
+@media (min-width: 576px) {
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+
+ }
+
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 1400px) {
+
+}
